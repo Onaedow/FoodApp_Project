@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "542490378494",
+    "project_id": "dbestech-food-app-commercial",
+    "storage_bucket": "dbestech-food-app-commercial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542490378494:android:9ff9eef32e6abf3e5de5af",
+        "android_client_info": {
+          "package_name": "com.dbestech.dbfoodTest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542490378494-6dd55enlb8cgm96rs0lcgn6g99on25vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8_Tzi2i4HLyAEjhz1nY6FvIuLE8SMjYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542490378494-6dd55enlb8cgm96rs0lcgn6g99on25vk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "542490378494-3slkqiijplpo2ckonviqg2dq8tu3f2ef.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dbestech.dbfood"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
